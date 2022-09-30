@@ -2,6 +2,9 @@
 
 Hello there, my name is Anish Kulkarni. I am currently an undergraduate student at UCSD studying Computer Engineering as a part of the ECE department. Currently, I spend my time ~~doing whatever~~ studying hard and working on my academic development. 
 
+![Image](images/ITSME.png)
+
+
 ### As a Programmer, 
 I would say that I am dedicated and capable of solving tough problems, and I occassionally practice my problem-solving using _LeetCode_ and _CodeSignal_ to try and keep myself sharp, but I'll be the first (and **only** person) to admit that I should do this more often. 
 
