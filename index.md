@@ -38,6 +38,9 @@ Some of my personal favorite games (in no particular order) are :
 - Binding of Isaac
 - Pokemon (Any)
 
+Also, if the first image did not make it clear, the most important person in my life is my dog.
+[Take a look!](images/Ratman.jpeg)
+
 ### In Summary,
 I'd say I have covered most of what it's like to be me here. Usually, I describe myself as well-adjusted but generic - there's not many things I do exemplarily but I can do a lot of things pretty well. And, I'd say that about wraps it up -
 
